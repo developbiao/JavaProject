@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PEOPLE>
+	<PERSON PERSONID="E01">
+		<NAME>Tony Blair</NAME>
+		<ADDRESS>10 Downing Street, London, UK</ADDRESS>
+		<TEL>(061) 98765</TEL>
+		<FAX>(061) 98765</FAX>
+		<EMAIL>blair@everywhere.com</EMAIL>
+	</PERSON>
+	<PERSON PERSONID="E02">
+		<NAME>Bill Clintiono</NAME>
+		<ADDRESS>White House, USA</ADDRESS>
+		<TEL>(001) 6400 98765</TEL>
+		<FAX>(001) 6400 98765</FAX>
+		<EMAIL>bill@everywhere.com</EMAIL>
+	</PERSON>
+	<PERSON PERSONID="E03">
+		<NAME>GongBiao</NAME>
+		<ADDRESS>Ya'an Sichuang</ADDRESS>
+		<TEL>15616214867</TEL>
+		<FAX>(028) 4511 68788</FAX>
+		<EMAIL>Developbiao@gmail.com</EMAIL>
+	</PERSON>
+	<PERSON PERSONID="E04">
+		<NAME> Linda Goodman</NAME>
+		<ADDRESS>78 Crax Lane, London, UK</ADDRESS>
+		<TEL>(061) 54 56789</TEL>
+		<FAX>(061) 54 56789</FAX>
+		<EMAIL>linda@gmail.com</EMAIL>
+	</PERSON>
+</PEOPLE>
